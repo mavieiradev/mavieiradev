@@ -2,7 +2,7 @@
 
 I am a versatilist and easily adapt to different hats (Web Developer/Wordpress/Shopify 🌐, App Developer 📱, Support Engineer  💻 or beginner level Designer 🎨) depending on what the project requires. I love exploring new tech stack 💻 and leveraging them to build cool stuffs 🛠️. 
 
-🔭 I’m currently working as Tech Support Engineer L2 @ Rappi<br>👯 I’m looking to collaborate on open source/commercial projects<br>🌱 I’m currently learning Kotlin<br>💬 Ask me about anything tech related, I am happy to help<br>
+🔭 I’m looking to collaborate on open source/commercial projects<br>🌱 I’m currently learning Kotlin<br>💬 Ask me about anything tech related, I am happy to help<br>
 
 
 ## 🌐 Socials:
