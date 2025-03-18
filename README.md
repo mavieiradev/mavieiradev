@@ -37,7 +37,7 @@
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=mavieiradev&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=mavieiradev&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=mavieiradev&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=mavieiradev&theme=dark&hide_border=false&layout=compact&exclude=markdown,dockerfile,yaml&hide=html,css)
 
 ### 🔥 QA Mantra
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Quality%20is%20never%20an%20accident%3B%20it%20is%20always%20the%20result%20of%20intelligent%20effort.)
@@ -45,4 +45,11 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=mavieiradev&icon=5&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly crafted with GPRM (https://gprm.itsvg.in) -->
+<!-- 
+  Customização do Top Languages:
+  - exclude=markdown,dockerfile,yaml → remove linguagens de configuração
+  - hide=html,css → oculta tecnologias não principais
+  - layout=compact → formato otimizado
+  Adicione/remova linguagens conforme necessário:
+  &exclude=linguagem1,linguagem2&hide=linguagem3 
+-->
